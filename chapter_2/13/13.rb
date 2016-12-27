@@ -1,4 +1,4 @@
-require_relative "./loader"
+require_relative "../loader"
 
 col1 = load("./col1.txt")
 col2 = load("./col2.txt")
